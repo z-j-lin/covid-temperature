@@ -1,0 +1,648 @@
+1589139187264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyF0GfI"
+1589139187739	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589139188103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589139188103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589139188103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589139188103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9355): Gtk-WARNING **: 09:33:08.255: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:9355): Gtk-WARNING **: 09:33:08.255: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:9355): Gtk-WARNING **: 09:33:08.255: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589139189457	Marionette	INFO	Listening on port 33891
+1589139189473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1589139191788	Marionette	INFO	Stopped listening on port 33891
+1589139320898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Ss8Ci"
+1589139321181	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589139321539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589139321540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589139321540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589139321540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9899): Gtk-WARNING **: 09:35:21.678: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:9899): Gtk-WARNING **: 09:35:21.678: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:9899): Gtk-WARNING **: 09:35:21.678: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589139323006	Marionette	INFO	Listening on port 39937
+1589139323076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1589139325051	Marionette	INFO	Stopped listening on port 39937
+1589139423912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecYIvHt"
+1589139424226	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589139424443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589139424443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589139424443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589139424443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:10262): Gtk-WARNING **: 09:37:04.577: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:10262): Gtk-WARNING **: 09:37:04.577: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:10262): Gtk-WARNING **: 09:37:04.577: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589139425762	Marionette	INFO	Listening on port 38635
+1589139425821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1589139427802	Marionette	INFO	Stopped listening on port 38635
+1589139602649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNcZGVH"
+1589139602953	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589139603202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589139603202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589139603202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589139603202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11244): Gtk-WARNING **: 09:40:03.346: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:11244): Gtk-WARNING **: 09:40:03.346: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:11244): Gtk-WARNING **: 09:40:03.346: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589139605035	Marionette	INFO	Listening on port 33693
+1589139605069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1589139606905	Marionette	INFO	Stopped listening on port 33693
+1589139667742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVBZ5Qq"
+1589139668058	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589139668278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589139668278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589139668279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589139668279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11661): Gtk-WARNING **: 09:41:08.411: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:11661): Gtk-WARNING **: 09:41:08.412: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:11661): Gtk-WARNING **: 09:41:08.412: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589139669660	Marionette	INFO	Listening on port 34845
+1589139669748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589139671496	Marionette	INFO	Stopped listening on port 34845
+1589144849303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3hYwdW"
+1589144849670	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589144849892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589144849892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589144849892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589144849892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16368): Gtk-WARNING **: 11:07:30.028: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:16368): Gtk-WARNING **: 11:07:30.028: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:16368): Gtk-WARNING **: 11:07:30.029: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589144851488	Marionette	INFO	Listening on port 46835
+1589144851565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+[Child 16516, MediaDecoderStateMachine #1] WARNING: 7f7e03b9d600 OpenCubeb() failed to init cubeb: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 16516, MediaDecoderStateMachine #1] WARNING: Decoder=7f7dffedf000 [OnMediaSinkAudioError]: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 16516, MediaDecoderStateMachine #1] WARNING: Decoder=7f7dffedf000 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 579"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:579:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 579, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 579: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 579"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:579:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 579, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 579: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589145090446	Marionette	INFO	Stopped listening on port 46835
+1589145091463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevLAcWN"
+1589145091765	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589145091986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589145091986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589145091986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589145091986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17320): Gtk-WARNING **: 11:11:32.123: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:17320): Gtk-WARNING **: 11:11:32.123: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:17320): Gtk-WARNING **: 11:11:32.123: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589145093564	Marionette	INFO	Listening on port 35889
+1589145093630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+[Child 17453, MediaDecoderStateMachine #1] WARNING: 7fc703673f30 OpenCubeb() failed to init cubeb: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 17453, MediaDecoderStateMachine #1] WARNING: Decoder=7fc6fab0dc00 [OnMediaSinkAudioError]: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+[Child 17453, MediaDecoderStateMachine #1] WARNING: 7fc70757db20 OpenCubeb() failed to init cubeb: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 17453, MediaDecoderStateMachine #1] WARNING: Decoder=7fc707cca400 [OnMediaSinkAudioError]: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 17453, MediaDecoderStateMachine #1] WARNING: Decoder=7fc707cca400 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+JavaScript error: https://www.wunderground.com/history/daily/KSAN/date/2020-2-1, line 66: uncaught exception: undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+[Child 17453, MediaDecoderStateMachine #1] WARNING: 7fc6f73d2fc0 OpenCubeb() failed to init cubeb: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 17453, MediaDecoderStateMachine #1] WARNING: Decoder=7fc6f74e7400 [OnMediaSinkAudioError]: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 17453, MediaDecoderStateMachine #1] WARNING: Decoder=7fc6f74e7400 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+1589145178397	Marionette	INFO	Stopped listening on port 35889
+1589146636698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeGeoEr"
+1589146637014	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589146637237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589146637237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589146637237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589146637237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19763): Gtk-WARNING **: 11:37:17.373: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:19763): Gtk-WARNING **: 11:37:17.373: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:19763): Gtk-WARNING **: 11:37:17.373: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589146638642	Marionette	INFO	Listening on port 45785
+1589146638739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://www.wunderground.com/history, line 1: ReferenceError: VPAIDLoader is not defined
+JavaScript error: https://imasdk.googleapis.com/js/sdkloader/ima3.js, line 319: NS_ERROR_FAILURE: 
+1589146662863	Marionette	INFO	Stopped listening on port 45785
+1589146975043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej5g6XO"
+1589146975510	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.3.107 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.3.107, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+checkForChanges@XPIProvider.jsm:2955:55
+startup@XPIProvider.jsm:2415:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:587:17
+startup@AddonManager.jsm:811:14
+startup@AddonManager.jsm:3482:26
+observe@addonManager.js:87:29
+1589146975522	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589146975534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589146975534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589146975534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589146975535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20514): Gtk-WARNING **: 11:42:55.668: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:20514): Gtk-WARNING **: 11:42:55.668: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:20514): Gtk-WARNING **: 11:42:55.668: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589146977155	Marionette	INFO	Listening on port 33349
+1589146977249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589147357262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAZdPTh"
+1589147357710	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.3.107 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.3.107, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+checkForChanges@XPIProvider.jsm:2955:55
+startup@XPIProvider.jsm:2415:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:587:17
+startup@AddonManager.jsm:811:14
+startup@AddonManager.jsm:3482:26
+observe@addonManager.js:87:29
+1589147357723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589147357734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589147357734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589147357734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589147357734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21335): Gtk-WARNING **: 11:49:17.861: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:21335): Gtk-WARNING **: 11:49:17.861: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:21335): Gtk-WARNING **: 11:49:17.861: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589147359280	Marionette	INFO	Listening on port 42031
+1589147359368	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589147362466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesDcPoo"
+1589147362906	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.3.107 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.3.107, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+checkForChanges@XPIProvider.jsm:2955:55
+startup@XPIProvider.jsm:2415:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:587:17
+startup@AddonManager.jsm:811:14
+startup@AddonManager.jsm:3482:26
+observe@addonManager.js:87:29
+1589147362918	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589147362929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589147362929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589147362930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589147362930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21621): Gtk-WARNING **: 11:49:23.057: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:21621): Gtk-WARNING **: 11:49:23.057: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:21621): Gtk-WARNING **: 11:49:23.057: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589147364521	Marionette	INFO	Listening on port 40073
+1589147364572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+1589147386281	Marionette	INFO	Stopped listening on port 40073
+1589147493670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileviRbBL"
+1589147494110	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.3.107 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.3.107, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+checkForChanges@XPIProvider.jsm:2955:55
+startup@XPIProvider.jsm:2415:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:587:17
+startup@AddonManager.jsm:811:14
+startup@AddonManager.jsm:3482:26
+observe@addonManager.js:87:29
+1589147494122	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589147494135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589147494135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589147494135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589147494136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22168): Gtk-WARNING **: 11:51:34.267: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:22168): Gtk-WARNING **: 11:51:34.267: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:22168): Gtk-WARNING **: 11:51:34.267: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589147495555	Marionette	INFO	Listening on port 36289
+1589147495635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+1589147517124	Marionette	INFO	Stopped listening on port 36289
+1589147559091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3POqEg"
+
+(firefox:22656): Gtk-WARNING **: 11:52:39.408: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:22656): Gtk-WARNING **: 11:52:39.408: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:22656): Gtk-WARNING **: 11:52:39.408: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589147560728	Marionette	INFO	Listening on port 39639
+1589147560798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589147561332	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.3.107 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.3.107, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+getNewSideloads@XPIProvider.jsm:2991:28
+JavaScript error: https://www.wunderground.com/history/monthly/KPHL/date/2020-2, line 71: TypeError: getCookiesMap(...).ci is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38012E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38012E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800C2,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+1589147571776	Marionette	INFO	Stopped listening on port 39639
+1589147586335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilext5Ci2"
+
+(firefox:23012): Gtk-WARNING **: 11:53:06.645: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:23012): Gtk-WARNING **: 11:53:06.645: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:23012): Gtk-WARNING **: 11:53:06.645: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589147588000	Marionette	INFO	Listening on port 35043
+1589147588049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.wunderground.com/history/monthly/KPHL/date/2020-2, line 71: TypeError: getCookiesMap(...).ci is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800C2,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+1589147590740	Marionette	INFO	Stopped listening on port 35043
+1589147995922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLxF42T"
+
+(firefox:23831): Gtk-WARNING **: 11:59:56.251: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:23831): Gtk-WARNING **: 11:59:56.251: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:23831): Gtk-WARNING **: 11:59:56.251: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589147997686	Marionette	INFO	Listening on port 45357
+1589147997758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589147998271	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.2 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.2, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+getNewSideloads@XPIProvider.jsm:2991:28
+JavaScript error: https://www.wunderground.com/history/monthly/KPHL/date/2020-2, line 71: TypeError: getCookiesMap(...).ci is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+1589148036966	Marionette	INFO	Stopped listening on port 45357
+1589148043793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX7gNzQ"
+
+(firefox:24321): Gtk-WARNING **: 12:00:44.116: Theme directory 24x24@2x/panel of theme Os-Catalina-Night has no size field
+
+
+(firefox:24321): Gtk-WARNING **: 12:00:44.116: Theme directory 22x22@2x/places of theme Os-Catalina-Night has no size field
+
+
+(firefox:24321): Gtk-WARNING **: 12:00:44.116: Theme directory 24x24@2x/places of theme Os-Catalina-Night has no size field
+
+1589148045412	Marionette	INFO	Listening on port 46817
+1589148045518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589148046077	Marionette	ERROR	[28] No reply from Marionette:Register
+1589148046219	addons.xpi-utils	WARN	addMetadata: Add-on uBlockOrigin@1.26.2 is invalid: Error: Invalid addon ID: expected addon ID uBlockOrigin@1.26.2, found uBlock0@raymondhill.net in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2787:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2787:15
+processFileChanges@XPIDatabase.jsm:3219:26
+getNewSideloads@XPIProvider.jsm:2991:28
+JavaScript error: https://www.wunderground.com/history/monthly/KPHL/date/2020-2, line 71: TypeError: getCookiesMap(...).ci is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/61b3cf5271defda30e0e.js, line 1: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+[Child 24383, MediaDecoderStateMachine #1] WARNING: 7fa0184d3e20 OpenCubeb() failed to init cubeb: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/AudioStream.cpp, line 328
+[Child 24383, MediaDecoderStateMachine #1] WARNING: Decoder=7fa016366800 [OnMediaSinkAudioError]: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 24383, MediaDecoderStateMachine #1] WARNING: Decoder=7fa016366800 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-EC1hjk/firefox-76.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3367
+1589148075865	Marionette	INFO	Stopped listening on port 46817

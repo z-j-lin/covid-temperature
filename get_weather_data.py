@@ -18,9 +18,9 @@ from selenium.webdriver.chrome.options import Options
 
 # Chrome load adblocker
 options = Options()
-options.add_argument('--load-extension=/home/spjy/Downloads/uBlock0.chromium')
+options.add_argument('--load-extension=/c:/Users/ZJLin/Desktop/uBlock0.chromium')
 
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome("C:/Users/ZJLin/Desktop/chromedriver")
 driver.get("https://www.wunderground.com/history")
 
 # Get COVID county data

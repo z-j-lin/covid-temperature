@@ -28,10 +28,10 @@ covid_data = pandas.read_csv('./covid-confirmed-usafacts.csv')
 
 counties = [f'{covid_data.values[0][1]}, {covid_data.values[0][2]}']
 
-for county in counties:
+for county in range(1, 3195):
   # Get search bar
   location = driver.find_element_by_xpath('//*[@id="historySearch"]')
-  location.send_keys(county)
+  location.send_keys(f'{covid_data.values[county][1]}, {covid_data.values[county][2]}')
 
   # Sleep to allow searching
   time.sleep(2)
@@ -73,6 +73,8 @@ for county in counties:
     print(f'_2_{date.text}_20 | {temp.text}')
     data_point[f'_2_{date.text}_20'] = temp.text
 
+  time.sleep(2)
+
   # Select march and click view button, wait until table loads
   marchView = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/select[1]/option[3]').click()
   marchViewButton = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/input').click()
@@ -85,6 +87,8 @@ for county in counties:
 
     print(f'_3_{date.text}_20 | {temp.text}')
     data_point[f'_3_{date.text}_20'] = temp.text
+
+  time.sleep(2)
 
   # Select march and click view button, wait until table loads
   aprilView = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/select[1]/option[4]').click()

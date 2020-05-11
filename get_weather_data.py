@@ -28,16 +28,19 @@ covid_data = pandas.read_csv('./covid-confirmed-usafacts.csv')
 
 counties = [f'{covid_data.values[0][1]}, {covid_data.values[0][2]}']
 
-for county in range(1, 3195):
+for county in range(2, 3195):
+  print(f'Getting data for {covid_data.values[county][1]}, {covid_data.values[county][2]} ({county})')
   # Get search bar
   location = driver.find_element_by_xpath('//*[@id="historySearch"]')
   location.send_keys(f'{covid_data.values[county][1]}, {covid_data.values[county][2]}')
 
-  # Sleep to allow searching
-  time.sleep(2)
+  time.sleep(3)
 
+  # Sleep to allow searching
+  WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="historyForm"]/search-autocomplete/ul')))
+  
   # Select first entry
-  locationSelect = driver.find_element_by_xpath('//*[@id="historyForm"]/search-autocomplete/ul')
+  locationSelect = driver.find_element_by_xpath('//*[@id="historyForm"]/search-autocomplete/ul/li[2]/a/span[1]')
   driver.find_element_by_xpath('//*[@id="historyForm"]/search-autocomplete/ul/li[2]/a/span[1]').click()
 
   # Set month and day. Year is already set by default
@@ -60,8 +63,8 @@ for county in range(1, 3195):
   print(weatherHistoryLocation.text.replace(' Weather History', ''))
 
   data_point = {
-    'county_name': covid_data.values[0][1],
-    'state': covid_data.values[0][2],
+    'county_name': covid_data.values[county][1],
+    'state': covid_data.values[county][2],
     'weather_station': weatherHistoryLocation.text.replace(' Weather History', '')
   }
 
@@ -108,6 +111,13 @@ for county in range(1, 3195):
   covid_temperature = covid_temperature.append(data_point, ignore_index=True)
 
   covid_temperature.to_csv('covid-temperature.csv', index=False)
+
+  print(f'{data_point["weather_station"]} for {data_point["county_name"]}, {data_point["state"]} saved ({county})')
+
+  driver.get("https://www.wunderground.com/history")
+
+  time.sleep(2)
+
 
 assert "No results found." not in driver.page_source
 

@@ -8,19 +8,19 @@
 # option.add_argument(“ — incognito”)
 
 import pandas
+import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-import time
+from selenium.webdriver.chrome.options import Options
 
-# Setup Firefox profile
-profile = webdriver.FirefoxProfile(profile_directory='/home/spjy/.mozilla/firefox/dcv3s3ae.default')
-profile.add_extension('/home/spjy/.mozilla/firefox/dcv3s3ae.default/extensions/uBlock0@raymondhill.net.xpi')
+# Chrome load adblocker
+options = Options()
+options.add_argument('--load-extension=/home/spjy/Downloads/uBlock0.chromium')
 
-# Set up Firefox driver
-driver = webdriver.Firefox(firefox_profile=profile)
+driver = webdriver.Chrome(options=options)
 driver.get("https://www.wunderground.com/history")
 
 # Get COVID county data
@@ -28,7 +28,7 @@ covid_data = pandas.read_csv('./covid-confirmed-usafacts.csv')
 
 counties = [f'{covid_data.values[0][1]}, {covid_data.values[0][2]}']
 
-for county in range(2, 3195):
+for county in range(16, 3195):
   print(f'Getting data for {covid_data.values[county][1]}, {covid_data.values[county][2]} ({county})')
   # Get search bar
   location = driver.find_element_by_xpath('//*[@id="historySearch"]')
@@ -50,12 +50,15 @@ for county in range(2, 3195):
   # Click "View" button
   viewButton = driver.find_element_by_xpath('//*[@id="dateSelect"]/div/input').click()
 
-  WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
+  WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-link-selector/div/div/div/a[3]')))
 
   # Go to month view (click monthly button)
   # Wait total 5 sec, poll 0.5 sec to get data from month view
   monthView = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-link-selector/div/div/div/a[3]').click()
-  WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
+
+  WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="inner-content"]/div[1]/lib-city-header/div[1]/div/h1/span[1]')))
+
+  time.sleep(2)
 
   # Get location to cross check
   weatherHistoryLocation = driver.find_element_by_xpath('//*[@id="inner-content"]/div[1]/lib-city-header/div[1]/div/h1/span[1]')
@@ -67,6 +70,9 @@ for county in range(2, 3195):
     'state': covid_data.values[county][2],
     'weather_station': weatherHistoryLocation.text.replace(' Weather History', '')
   }
+
+  WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="inner-content"]/div[2]/div[1]/div[5]/div[1]/div/lib-city-history-observation/div/div[2]/table')))
+  driver.implicitly_wait(5)
 
   # Get avg temperature for the days in February
   for i in range(2, 28 + 2):
@@ -81,7 +87,8 @@ for county in range(2, 3195):
   # Select march and click view button, wait until table loads
   marchView = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/select[1]/option[3]').click()
   marchViewButton = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/input').click()
-  WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
+  WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="inner-content"]/div[2]/div[1]/div[5]/div[1]/div/lib-city-history-observation/div/div[2]/table')))
+  driver.implicitly_wait(5)
 
   # Get avg temperature for the days in March
   for i in range(2, 31 + 2):
@@ -96,7 +103,8 @@ for county in range(2, 3195):
   # Select march and click view button, wait until table loads
   aprilView = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/select[1]/option[4]').click()
   aprilViewButton = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-date-selector/div/input').click()
-  WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
+  WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="inner-content"]/div[2]/div[1]/div[5]/div[1]/div/lib-city-history-observation/div/div[2]/table')))
+  driver.implicitly_wait(5)
 
   # Get avg temperature for the days in April
   for i in range(2, 30 + 2):
@@ -117,7 +125,6 @@ for county in range(2, 3195):
   driver.get("https://www.wunderground.com/history")
 
   time.sleep(2)
-
 
 assert "No results found." not in driver.page_source
 

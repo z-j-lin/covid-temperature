@@ -47,6 +47,8 @@ for county in counties:
   # Click "View" button
   viewButton = driver.find_element_by_xpath('//*[@id="dateSelect"]/div/input').click()
 
+  WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
+
   # Go to month view (click monthly button)
   # Wait total 5 sec, poll 0.5 sec to get data from month view
   monthView = driver.find_element_by_xpath('//*[@id="inner-content"]/div[2]/div[1]/div[1]/div[1]/div/lib-link-selector/div/div/div/a[3]').click()
@@ -96,6 +98,12 @@ for county in counties:
 
     print(f'_4_{date.text}_20 | {temp.text}')
     data_point[f'_4_{date.text}_20'] = temp.text
+
+  covid_temperature = pandas.read_csv('covid-temperature.csv')
+
+  covid_temperature = covid_temperature.append(data_point, ignore_index=True)
+
+  covid_temperature.to_csv('covid-temperature.csv', index=False)
 
 assert "No results found." not in driver.page_source
 
